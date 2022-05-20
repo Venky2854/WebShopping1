@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\n1511\\Downloads\\5_6066712060891235752\\webshopping01\\webshopping01\\webshopping01.csproj",
+      "projectUniqueName": "C:\\Users\\n1511\\Downloads\\WebShopping\\webshopping01\\webshopping01\\webshopping01.csproj",
       "projectName": "webshopping01",
-      "projectPath": "C:\\Users\\n1511\\Downloads\\5_6066712060891235752\\webshopping01\\webshopping01\\webshopping01.csproj",
+      "projectPath": "C:\\Users\\n1511\\Downloads\\WebShopping\\webshopping01\\webshopping01\\webshopping01.csproj",
       "packagesPath": "C:\\Users\\n1511\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\n1511\\Downloads\\5_6066712060891235752\\webshopping01\\webshopping01\\obj\\",
+      "outputPath": "C:\\Users\\n1511\\Downloads\\WebShopping\\webshopping01\\webshopping01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\n1511\\AppData\\Roaming\\NuGet\\NuGet.Config",
